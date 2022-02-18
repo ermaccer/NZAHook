@@ -1,4 +1,4 @@
-# I2Hook
+# NZAHook
 A plugin for Sniper Elite: Nazi Zombie Army.
 
 
