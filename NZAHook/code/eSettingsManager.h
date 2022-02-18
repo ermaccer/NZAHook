@@ -8,9 +8,6 @@ public:
 	void Init();
 
 	bool bEnableConsoleWindow;
-	bool bEnable60FPSFrontend;
-
-	bool bEnableGamepadSupport;
 
 	// generic
 	int iHookMenuOpenKey;
